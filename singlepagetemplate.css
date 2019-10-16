@@ -280,7 +280,8 @@ footer {
 	float: none;
 	display: none;
 }
-.stats {font-size-adjust: auto;
+.stats {font-size: 18px;
+	}
 
 }
 
