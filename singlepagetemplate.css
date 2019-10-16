@@ -148,7 +148,7 @@ ul li:hover a {
 /* Parallax Section */
 .banner {
 	background-color: #2D9AB7;
-	background-image: url("https://raw.githubusercontent.com/MichelleSawa/liongard/blob/master/parallax.png?raw=true");
+	background-image: url(https://raw.githubusercontent.com/MichelleSawa/liongard/blob/master/parallax.png);
 	height: 400px;
 	background-attachment: fixed;
 	background-size: cover;
@@ -250,7 +250,7 @@ footer .footer_column p {
 	padding-top: 60px;
 	padding-bottom: 60PX;
 	margin-bottom: 0px;
-	background-image: url("https://raw.githubusercontent.com/MichelleSawa/liongard/blob/master/pattern.png");
+	background-image: url(https://raw.githubusercontent.com/michellesawa/liongard/blob/master/pattern.png);
 	background-repeat: repeat;
 }
 footer {
