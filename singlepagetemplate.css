@@ -112,7 +112,6 @@ ul li:hover a {
 .stats {
 	color: #717070;
 	margin-bottom: 5px;
-	font-size-adjust: auto;
 }
 .gallery {
 	clear: both;
@@ -141,9 +140,9 @@ ul li:hover a {
 }
 .gallery .thumbnail p {
 	margin-top: 0px;
-	margin-right: 1px;
+	margin-right: 0px;
 	margin-bottom: 0px;
-	margin-left: 1px;
+	margin-left: 0px;
 	color: #A3A3A3;
 }
 /* Parallax Section */
@@ -279,10 +278,6 @@ footer {
 	width: 100%;
 	float: none;
 	display: none;
-}
-.stats {font-size: 18px;
-	}
-
 }
 
 header nav ul {
