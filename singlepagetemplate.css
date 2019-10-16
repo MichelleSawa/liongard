@@ -112,6 +112,7 @@ ul li:hover a {
 .stats {
 	color: #717070;
 	margin-bottom: 5px;
+	font-size-adjust: auto;
 }
 .gallery {
 	clear: both;
@@ -280,6 +281,7 @@ footer {
 	display: none;
 }
 .stats {font-size-adjust: auto;
+
 }
 
 header nav ul {
