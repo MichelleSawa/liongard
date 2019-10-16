@@ -148,7 +148,7 @@ ul li:hover a {
 /* Parallax Section */
 .banner {
 	background-color: #2D9AB7;
-	background-image: url(https://raw.githubusercontent.com/MichelleSawa/liongard/blob/master/parallax.png);
+	background-image: url(https://raw.githubusercontent.com/MichelleSawa/liongard/blob/30272de1eee4e7de559b597c49c91c987dfb0e06/parallax.png);
 	height: 400px;
 	background-attachment: fixed;
 	background-size: cover;
