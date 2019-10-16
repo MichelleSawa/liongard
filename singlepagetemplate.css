@@ -279,6 +279,9 @@ footer {
 	float: none;
 	display: none;
 }
+.stats {font-size-adjust: auto;
+}
+
 header nav ul {
 }
 nav ul li {
